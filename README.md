@@ -1,6 +1,6 @@
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
-    Title = "Executed!",
+    Title = "Injected!",
     Text = "Team c00lkidd join today!",
     Icon = "",
     Duration = 10,
